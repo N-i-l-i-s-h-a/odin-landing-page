@@ -16,5 +16,5 @@ This project is a landing page built using HTML/CSS (and optionally JS), designe
 - Inspirational quote to engage viewers  
 - Copyright and attribution included
 
-## Check out the live version here:  
+## Link  
 [Vincent’s Art Gallery](https://n-i-l-i-s-h-a.github.io/odin-landing-page/)
